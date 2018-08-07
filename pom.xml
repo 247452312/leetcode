@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>leetcode</groupId>
+    <artifactId>leetcode</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>leetcode-柠檬水找零</module>
+        <module>leetcode-两数之和</module>
+        <module>leetcode-无重复字符的最长子串</module>
+        <module>leetcode-最长回文子串</module>
+        <module>leetcode-搜索二维矩阵</module>
+        <module>leetcode-第二高的薪水</module>
+        <module>leetcode-分数排名</module>
+        <module>leetcode-位1的个数</module>
+        <module>leetcode-用栈实现队列</module>
+        <module>leetcode-学生出勤纪录I</module>
+        <module>leetcode-二叉搜索树的最近公共祖先</module>
+        <module>leetcode-2的幂</module>
+        <module>leetcode-复数乘法</module>
+        <module>leetcode-寻找旋转排序数组中的最小值</module>
+        <module>leetcode-子域名访问计数</module>
+        <module>leetcode-赛车</module>
+        <module>leetcode-从排序数组中删除重复项</module>
+        <module>leetcode-买卖股票的最佳时机II</module>
+        <module>leetcode-旋转数组</module>
+        <module>leetcode-存在重复(数组)</module>
+    </modules>
+
+
+</project>
