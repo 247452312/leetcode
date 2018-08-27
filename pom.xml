@@ -8,6 +8,12 @@
     <artifactId>leetcode</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <properties>
+        <!--add  maven release-->
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <encoding>UTF-8</encoding>
+    </properties>
     <modules>
         <module>leetcode-柠檬水找零</module>
         <module>leetcode-两数之和</module>
@@ -31,6 +37,14 @@
         <module>leetcode-存在重复(数组)</module>
         <module>leetcode-组合总和III</module>
         <module>leetcode-分割等和子集</module>
+        <module>leetcode-两个数组的交集 II</module>
+        <module>leetcode-只出现一次的数字</module>
+        <module>leetcode-加一</module>
+        <module>leetcode-移动零</module>
+        <module>leetcode-有效的数独</module>
+        <module>leetcode-旋转图像</module>
+        <module>leetcode-反转字符串</module>
+        <module>leetcode-颠倒整数</module>
     </modules>
 
 
