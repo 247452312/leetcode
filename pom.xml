@@ -29,6 +29,8 @@
         <module>leetcode-买卖股票的最佳时机II</module>
         <module>leetcode-旋转数组</module>
         <module>leetcode-存在重复(数组)</module>
+        <module>leetcode-组合总和III</module>
+        <module>leetcode-分割等和子集</module>
     </modules>
 
 
