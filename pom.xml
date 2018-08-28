@@ -45,6 +45,29 @@
         <module>leetcode-旋转图像</module>
         <module>leetcode-反转字符串</module>
         <module>leetcode-颠倒整数</module>
+        <module>leetcode-字符串中的第一个唯一字符</module>
+        <module>leetcode-有效的字母异位词</module>
+        <module>leetcode-验证回文字符串</module>
+        <module>leetcode-字符串转整数（atoi）</module>
+        <module>leetcode-实现strStr()</module>
+        <module>leetcode-数数并说</module>
+        <module>leetcode-最长公共前缀</module>
+        <module>leetcode-删除链表中的节点</module>
+        <module>leetcode-删除链表的倒数第N个节点</module>
+        <module>leetcode-反转链表</module>
+        <module>leetcode-合并两个有序链表</module>
+        <module>leetcode-请判断一个链表是否为回文链表</module>
+        <module>leetcode-环形链表</module>
+        <module>leetcode-二叉树的最大深度</module>
+        <module>leetcode-验证二叉搜索树</module>
+        <module>leetcode-对称二叉树</module>
+        <module>leetcode-二叉树的层次遍历</module>
+        <module>leetcode-将有序数组转换为二叉搜索树</module>
+        <module>leetcode-合并两个有序数组</module>
+        <module>leetcode-第一个错误的版本</module>
+        <module>leetcode-爬楼梯</module>
+        <module>leetcode-买卖股票的最佳时机</module>
+        <module>leetcode-最大子序和</module>
     </modules>
 
 
