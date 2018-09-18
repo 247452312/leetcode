@@ -68,6 +68,37 @@
         <module>leetcode-爬楼梯</module>
         <module>leetcode-买卖股票的最佳时机</module>
         <module>leetcode-最大子序和</module>
+        <module>leetcode-打家劫舍</module>
+        <module>leetcode-Shuffle an Array</module>
+        <module>leetcode-最小栈</module>
+        <module>leetcode-Fizz Buzz</module>
+        <module>leetcode-计数质数</module>
+        <module>leetcode-3的幂</module>
+        <module>leetcode-罗马数字转整数</module>
+        <module>leetcode-汉明距离</module>
+        <module>leetcode-颠倒二进制位</module>
+        <module>leetcode-帕斯卡三角形</module>
+        <module>leetcode-有效的括号</module>
+        <module>leetcode-缺失数字</module>
+        <module>leetcode-三数之和</module>
+        <module>leetcode-矩阵置零</module>
+        <module>leetcode-字谜分组</module>
+        <module>leetcode-递增的三元子序列</module>
+        <module>leetcode-两数相加</module>
+        <module>leetcode-奇偶链表</module>
+        <module>leetcode-相交链表</module>
+        <module>leetcode-中序遍历二叉树</module>
+        <module>leetcode-二叉树的锯齿形层次遍历</module>
+        <module>leetcode-从前序与中序遍历序列构造二叉树</module>
+        <module>leetcode-每个节点的右向指针</module>
+        <module>leetcode-二叉搜索树中第K小的元素</module>
+        <module>leetcode-岛屿的个数</module>
+        <module>leetcode-电话号码的字母组合</module>
+        <module>leetcode-生成括号</module>
+        <module>leetcode-两整数之和</module>
+        <module>leetcode-矩形重叠</module>
+        <module>leetcode-推多米诺</module>
+        <module>leetcode-两个排序数组的中位数</module>
     </modules>
 
 
