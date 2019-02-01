@@ -105,6 +105,7 @@
         <module>leetcode-合并K个排序链表</module>
         <module>leetcode-丑数2</module>
         <module>leetcode-丑数</module>
+        <module>leetcode-快乐数</module>
     </modules>
 
 
