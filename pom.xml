@@ -101,6 +101,8 @@
         <module>leetcode-两个排序数组的中位数</module>
         <module>leetcode-Z字形变换</module>
         <module>leetcode-盛最多水的容器</module>
+        <module>leetcode-整数转罗马数字</module>
+        <module>leetcode-合并K个排序链表</module>
     </modules>
 
 
