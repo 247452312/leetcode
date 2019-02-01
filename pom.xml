@@ -103,6 +103,8 @@
         <module>leetcode-盛最多水的容器</module>
         <module>leetcode-整数转罗马数字</module>
         <module>leetcode-合并K个排序链表</module>
+        <module>leetcode-丑数2</module>
+        <module>leetcode-丑数</module>
     </modules>
 
 
