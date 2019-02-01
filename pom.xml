@@ -99,7 +99,8 @@
         <module>leetcode-矩形重叠</module>
         <module>leetcode-推多米诺</module>
         <module>leetcode-两个排序数组的中位数</module>
-        <module>Z字形变换</module>
+        <module>leetcode-Z字形变换</module>
+        <module>leetcode-盛最多水的容器</module>
     </modules>
 
 
