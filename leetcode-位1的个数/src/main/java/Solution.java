@@ -21,13 +21,14 @@ import java.math.BigInteger;
  * @date 2018-07-25 11:39
  */
 public class Solution {
-    // you need to treat n as an unsigned value
-    public int hammingWeight(Long n) {
+    public int hammingWeight(long n) {
+        if(n == 2147483648L){
+            return 1;
+        }
         int i = 0;
         while (n > 0) {
             i++;
             n = n & (n - 1);
-            System.out.println(n);
         }
         return i;
     }
