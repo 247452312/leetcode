@@ -99,6 +99,7 @@
         <module>leetcode-矩形重叠</module>
         <module>leetcode-推多米诺</module>
         <module>leetcode-两个排序数组的中位数</module>
+        <module>leetcode-单词模式</module>
     </modules>
 
 

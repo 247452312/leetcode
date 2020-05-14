@@ -38,7 +38,8 @@ public class Solution {
 
     public int le(String s) {
         int n = s.length(), ans = 0;
-        int[] index = new int[128]; // current index of character
+        // current index of character
+        int[] index = new int[128];
         // try to extend the range [i, j]
         for (int j = 0, i = 0; j < n; j++) {
             i = Math.max(index[s.charAt(j)], i);
