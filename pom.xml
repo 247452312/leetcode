@@ -100,6 +100,9 @@
         <module>leetcode-推多米诺</module>
         <module>leetcode-两个排序数组的中位数</module>
         <module>leetcode-单词模式</module>
+        <module>leetcode-字符串相乘</module>
+        <module>leetcode-最小路径和</module>
+        <module>leetcode-平衡二叉树</module>
     </modules>
 
 

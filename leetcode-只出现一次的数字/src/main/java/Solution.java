@@ -24,33 +24,16 @@ import java.util.List;
 public class Solution {
 
     public int singleNumber(int[] nums) {
-        List<Integer> list = new ArrayList<Integer>();
-        for (Integer num : nums) {
-            if (list.contains(num)) {
-                list.remove(num);
-            } else {
-                list.add(num);
-            }
+        int a = nums[0];
+        for (int i = 1; i < nums.length; i++) {
+            a = a ^ nums[i];
         }
-        return list.get(0);
-    }
-
-    public int batter(int[] nums) {
-        if (nums == null || nums.length == 0) {
-            return -1;
-        }
-        int rst = 0;
-        for (int aA : nums) {
-            rst ^= aA;
-        }
-        return rst;
+        return a;
     }
 
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
-        int[] ii = new int[]{4, 1, 2, 1, 2};
-        int i = solution.singleNumber(ii);
+        int i = new Solution().singleNumber(new int[]{2,2,1});
         System.out.println(i);
     }
 }
