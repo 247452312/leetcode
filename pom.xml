@@ -99,6 +99,13 @@
         <module>leetcode-矩形重叠</module>
         <module>leetcode-推多米诺</module>
         <module>leetcode-两个排序数组的中位数</module>
+        <module>leetcode-Z字形变换</module>
+        <module>leetcode-盛最多水的容器</module>
+        <module>leetcode-整数转罗马数字</module>
+        <module>leetcode-合并K个排序链表</module>
+        <module>leetcode-丑数2</module>
+        <module>leetcode-丑数</module>
+        <module>leetcode-快乐数</module>
         <module>leetcode-单词模式</module>
         <module>leetcode-字符串相乘</module>
         <module>leetcode-最小路径和</module>
