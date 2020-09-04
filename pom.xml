@@ -110,6 +110,10 @@
         <module>leetcode-字符串相乘</module>
         <module>leetcode-最小路径和</module>
         <module>leetcode-平衡二叉树</module>
+        <module>leetcode-钥匙和房间</module>
+        <module>leetcode-数组中重复的数字</module>
+        <module>leetcode-重复叠加字符串匹配</module>
+        <module>leetcode-二叉树的所有路径</module>
     </modules>
 
 
